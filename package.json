@@ -1,0 +1,47 @@
+{
+  "name": "salesapi",
+  "version": "1.0.0",
+  "description": "react",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/"
+  },
+  "author": "uriel",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "dateformat": "^3.0.3",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6",
+    "express-handlebars": "^3.1.0",
+    "express-mysql-session": "^2.1.4",
+    "express-session": "^1.17.0",
+    "express-validator": "^6.4.0",
+    "fs": "0.0.1-security",
+    "gatsby-cli": "^2.11.2",
+    "handlebars-helper-equal": "^1.0.0",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.4.6",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "pdfkit": "^0.10.0",
+    "timeago.js": "^4.0.2",
+    "yup": "^0.27.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urltrn13/salesapi.git"
+  },
+  "keywords": [
+    "keys"
+  ],
+  "bugs": {
+    "url": "https://github.com/urltrn13/salesapi/issues"
+  },
+  "homepage": "https://github.com/urltrn13/salesapi#readme"
+}
