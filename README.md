@@ -1,2 +1,1 @@
-# salesappi
-vinculacion sistema
+Uriel Manuel Antonio Tarìn Partida
